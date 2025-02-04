@@ -1,3 +1,5 @@
+package javastudy;
+
 public class _02_variables {
     public static void main(String[] args) {
         String name = "홍길동";
