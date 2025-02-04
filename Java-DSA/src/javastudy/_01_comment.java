@@ -5,7 +5,7 @@ package javastudy;
  * 봅시다.
  */
 
-public class comment {
+public class _01_comment {
     public static void main(String[] args) {
         System.out.println("HelloWorld");
         //한 줄만 주석 처리
