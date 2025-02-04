@@ -1,5 +1,3 @@
-package javastudy;
-
 /** 문서화 주석을
  * 써
  * 봅시다.
